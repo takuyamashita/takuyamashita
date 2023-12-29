@@ -1,6 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuyamashita&size_weight=1.0&count_weight=0.5)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takuyamashita&langs_count=8)
 
 <!--
 **takuyamashita/takuyamashita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
